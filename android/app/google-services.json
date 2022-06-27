@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "83117104518",
+    "project_id": "fir-messaging-1c884",
+    "storage_bucket": "fir-messaging-1c884.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83117104518:android:58619b86036e1f3245a007",
+        "android_client_info": {
+          "package_name": "com.example.fiarebase_massesging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83117104518-hoa73mn3ujpiu8ro3n4jtm255lnsaj62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhesyBTXtHndkiiXM6E1tUgt1YYxnKO8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83117104518-hoa73mn3ujpiu8ro3n4jtm255lnsaj62.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
